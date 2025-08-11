@@ -1,4 +1,13 @@
+# Python
 __pycache__/
 *.pyc
-.ipynb_checkpoints/
+*.pyo
+*.pyd
 report_output.md
+.ipynb_checkpoints/
+
+
+# Data & models
+data/*.csv
+!data/README.txt
+models/
