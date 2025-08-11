@@ -1,0 +1,7 @@
+--input sample_input/assessment_notes.txt
+--output report_output.md
+--patient "AB"
+--date "2025-05-11"
+--therapist "Israel"
+--service "Community OT"
+--template templates/ot_report_template.md
